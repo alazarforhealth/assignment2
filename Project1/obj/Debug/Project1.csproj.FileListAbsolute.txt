@@ -1,0 +1,9 @@
+C:\Users\befuye\source\repos\Assignment_2\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\befuye\source\repos\Assignment_2\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\befuye\source\repos\Assignment_2\Project1\bin\Debug\Project1.exe.config
+C:\Users\befuye\source\repos\Assignment_2\Project1\bin\Debug\Project1.exe
+C:\Users\befuye\source\repos\Assignment_2\Project1\bin\Debug\Project1.pdb
+C:\Users\befuye\source\repos\Assignment_2\Project1\obj\Debug\Project1.exe
+C:\Users\befuye\source\repos\Assignment_2\Project1\obj\Debug\Project1.pdb
+C:\Users\befuye\source\repos\Assignment_2\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\befuye\source\repos\Assignment_2\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
